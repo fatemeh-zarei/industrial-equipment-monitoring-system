@@ -52,3 +52,24 @@ PostgreSQL Database
         |
         v
 Web Dashboard
+
+## Technology Stack
+
+### Backend
+- Python
+- FastAPI
+
+### Database
+- PostgreSQL
+
+### Frontend
+- HTML
+- JavaScript
+- Chart.js
+
+### Infrastructure
+- Docker
+- Docker Compose
+
+### Version Control
+- GitHub
