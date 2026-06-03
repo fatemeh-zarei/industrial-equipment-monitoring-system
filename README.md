@@ -38,21 +38,6 @@ The first version of the system focuses only on the essential monitoring workflo
 - Maintenance managers
 - Industrial equipment monitoring teams
 
-## Initial System Architecture
-
-```text
-IoT Device / Simulator
-        |
-        | HTTP POST /sensor-data
-        v
-FastAPI Backend
-        |
-        v
-PostgreSQL Database
-        |
-        v
-Web Dashboard
-
 ## Technology Stack
 
 ### Backend
@@ -73,3 +58,20 @@ Web Dashboard
 
 ### Version Control
 - GitHub
+
+
+## Initial System Architecture
+
+```text
+IoT Device / Simulator
+        |
+        | HTTP POST /sensor-data
+        v
+FastAPI Backend
+        |
+        v
+PostgreSQL Database
+        |
+        v
+Web Dashboard
+
